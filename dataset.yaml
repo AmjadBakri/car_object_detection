@@ -1,0 +1,7 @@
+# Path
+train: C:\Users\LENOVO\Desktop\ML\car detection\images\train
+val: C:\Users\LENOVO\Desktop\ML\car detection\images\valid
+
+# Classes
+nc: 1
+names: ['car']
